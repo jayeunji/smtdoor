@@ -1,8 +1,10 @@
 # 얼굴인식 스마트 도어락
 
+<br>
+
 🥉 **캡스톤 디자인** 동상 수상 🥉   
 
-<image src = "https://user-images.githubusercontent.com/93428247/223591419-21797344-0180-45f3-a773-2d31462b3bf0.jpg" width="30%">
+<image src = "https://user-images.githubusercontent.com/93428247/223591419-21797344-0180-45f3-a773-2d31462b3bf0.jpg" width="35%">
 
 <br>
 
