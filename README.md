@@ -31,5 +31,5 @@
 
 | **개발 언어**  | **Java, Python**           |
 |---------------| ---------------------------|
-| **개발 도구**  | **Android studio, Python** |
-| **사용 기술**  | **opencv**                 |
+| **개발 도구**  | **Android studio, Linux**  |
+| **사용 기술**  | **Socket, opencv**         |
