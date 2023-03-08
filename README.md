@@ -2,7 +2,7 @@
 
 🥉 **캡스톤 디자인** 동상 수상 🥉   
 
-<image src = "https://user-images.githubusercontent.com/93428247/223591419-21797344-0180-45f3-a773-2d31462b3bf0.jpg" width="40%">
+<image src = "https://user-images.githubusercontent.com/93428247/223591419-21797344-0180-45f3-a773-2d31462b3bf0.jpg" width="30%">
 
 <br>
 
@@ -23,11 +23,11 @@
 
 <br>
 
-## 도어락 외관
+## ✨ 도어락 외관
   
 <image src = "https://user-images.githubusercontent.com/93428247/223595506-c96d805f-dc05-419c-b060-881493d45fa7.png" width="40%">
 
-## 사용 도구
+## ⚙ 사용 도구
 
 | **개발 언어**  | **Java, Python**           |
 |---------------| ---------------------------|
